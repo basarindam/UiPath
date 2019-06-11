@@ -8,10 +8,10 @@ Role required for performing the process
 System 1 User
 Process schedule
 Daily
-# of item processes / day: 7 – 15 Clients
+No: of item processes /day: 7 – 15 Clients
 Average handling time per item: 2 min / Client
 Peak period (s): No peak period
-# of FTEs supporting this activity: 1
+Numbber of FTEs supporting this activity: 1
 Level of exception rate: No expected exceptions
 Input data
 Client Data
